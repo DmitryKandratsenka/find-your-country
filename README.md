@@ -1,5 +1,8 @@
 # Welcome to my home task repository. This project was created to demonstrate my coding skills and UI tech stack knowledge.
 
+The deployed app is running here: 
+https://dmitrykandratsenka.github.io/find-your-country
+
 This project uses the following tech stack:
 #### ReactJS
 #### TypeScript
